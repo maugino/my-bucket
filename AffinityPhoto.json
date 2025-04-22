@@ -4,7 +4,6 @@
   "depends": "sudo",
   "description": "Affinity Photo 是英国 Serif 公司历时5年开发的一款强大的图像处理软件，最初只有MAC版，软件推出后获得用户的一致好评，2015年官方在用户的热切期盼下终于推出Windows版。Serif 公司表示他们采用了比 Adobe 更先进的算法，声称可以叫板 PhotoShop，毕竟 PhotoShop 是基于30年前的电脑技术构筑起来，而那时根本未能预计今日电脑的科技，所以 Affinity Photo 更适用此时代而效能更高，据开发商介绍，这是最快速、最顺畅、最精准的专业修图软件。",
   "url": "https://d1gl0nrskhax8d.cloudfront.net/windows/photo/1.10.6/affinity-photo-1.10.6.exe?Expires=1745337143&Signature=KNTikW5VKHPEwl1TeiVRMu36ZkFUJWMYPeV7G2TLhoz3lztiiERHg~gddyFruPgYE9mTD5F5qwU365WDa-1pIS4D7y8qXGisgzHWhRvUQ27Kqu8rlfImGGZiJpGA0jac2DZZbynFraxaCAJYUCrsxl9p~uz-pR5tOAz5ndNlgLjGiFwZsxMYnkpYOQkO6EERrrzW0dTu5v7HcafB3z5rL8YGZ2jvG09NzngcW7hU2q-mYv-JyoDtUcR2HRn03UZOD9AVW-qd8Fj-QY3vpPhPhBzyR7IyqYJAZsVNH4sS1yRQ6h9JcKfgHdnT7K9Q6QYOuicT8olFDB~jsr9rYNQOkg__&Key-Pair-Id=APKAIMMPYSI7GSVTEAAQ#/installer.exe",
-  "hash": "7b77de8a0a4d1b6a6b15767b6550cc7dfcac84e6180ac50650d35936ec192c4b",
   "installer": {
     "script": [
       "Move-Item \"$dir\\installer.exe\" \"$dir\\installer.msi\"",
